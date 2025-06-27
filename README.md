@@ -29,6 +29,6 @@ npm install string-case-utils
 | `kebabCase()`             | Converts a string to kebab-case         |
 | `removeWhitespace()`      | Removes all whitespace                  |
 | `reverse()`               | Reverses the string                     |
-| `snakeCase()`             | Converts a string to snake\_case        |
+| `snakeCase()`             | Converts a string to snake_case        |
 | `titleCase()`             | Converts a string to Title Case         |
 | `truncate()`              | Truncates a string to a given length    |
