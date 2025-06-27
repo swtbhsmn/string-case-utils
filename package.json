@@ -1,6 +1,6 @@
 {
   "name": "string-case-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Useful string utility functions like camelCase, truncate, reverse, etc.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -13,9 +13,13 @@
     "camelCase",
     "typescript"
   ],
-  "contributors":[
+  "contributors": [
     "Swetabh Suman (https://github.com/swtbhsmn)"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swtbhsmn/string-case-utils"
+  },
   "author": "Swetabh Suman",
   "license": "MIT",
   "devDependencies": {
